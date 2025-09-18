@@ -7,6 +7,19 @@
 **Lieu** : Airbnb à définir.  
 **Thème** : Enquête / Horreur.  
 
+## Sommaire
+
+- [Organisation](#organisation)
+- [Nourriture](#nourriture)
+    - [Entrées](#entrées)
+    - [Plats](#plats)
+    - [Desserts](#desserts)
+    - [Autres](#autres)
+- [Décoration](#décoration)
+- [Cadeaux](#cadeaux)
+    - [Boîte d'amour](#boîte-damour)
+    - [Liste d'idées](#liste-didées)
+
 ## Organisation
 
 - Équipe Nadia
@@ -28,25 +41,27 @@
 Chacun apporte quelque chose.  
 **Nous sommes 14.**
 
-- **Entrée**
+### Entrées
 
-    |Nom|Entrée|
-    |:---|:---|
-    |Machin|Machine|
+|Nom|Entrée|
+|:---|:---|
+|Machin|Machine|
 
-- **Plat**
+### Plats
 
-    |Nom|Plat|
-    |:---|:---|
-    |Machin|Machine|
+|Nom|Plat|
+|:---|:---|
+|Machin|Machine|
 
-- **Dessert**
+### Desserts
 
-    |Nom|Dessert|
-    |:---|:---|
-    |Machin|Machine|
+|Nom|Dessert|
+|:---|:---|
+|Machin|Machine|
 
-On ajoute à cette liste les grignotages: chips, boissons...
+### Autres
+
+Chips, boissons, bonbons...
 
 ## Décoration
 
