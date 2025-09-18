@@ -30,21 +30,21 @@ Chacun apporte quelque chose.
 
 - **Entrée**
 
-    >|Nom|Entrée|
-    >|:---|:---|
-    >|Machin|Machine|
+    |Nom|Entrée|
+    |:---|:---|
+    |Machin|Machine|
 
 - **Plat**
 
-    >|Nom|Plat|
-    >|:---|:---|
-    >|Machin|Machine|
+    |Nom|Plat|
+    |:---|:---|
+    |Machin|Machine|
 
 - **Dessert**
 
-    >|Nom|Dessert|
-    >|:---|:---|
-    >|Machin|Machine|
+    |Nom|Dessert|
+    |:---|:---|
+    |Machin|Machine|
 
 On ajoute à cette liste les grignotages: chips, boissons...
 
@@ -66,15 +66,15 @@ Liste en dessous pour aider ceux qui n'ont pas d'idée.
 **Merci de prévenir si vous pensez prendre quelque chose pour éviter les doublons.**  
 
 
->|Idée|Lien|Pris par|
->|:---|:---:|:---|
->|Bouillote| - | - |
->|Ritual - Gamme Yozakura|[Ritual](https://www.rituals.com/fr-fr/collection/yozakura#product_grid_collection_yozakura_all)| - |
->|Massage "qui détruit le dos"| - | - |
->|Salopette noire|-|-|
->|Porte encens (type bled)|-|-|
->|Pochette switch 2|[Exemple](https://www.amazon.fr/Pochette-transport-protection-d%C3%A9cran-Nintendo/dp/B0F3JT1NT8)|-|
->|Sacoche type banane|-|-|
->|Bijoux de piercing (oreilles)|-|-|
->|Carnet de coloriage (joli) + Feutres (basiques)|-|-|
->|Baskets (Elle aime Converse et Nike) |-|-|
+|Idée|Lien|Pris par|
+|:---|:---:|:---|
+|Bouillote| - | - |
+|Ritual - Gamme Yozakura|[Ritual](https://www.rituals.com/fr-fr/collection/yozakura#product_grid_collection_yozakura_all)| - |
+|Massage "qui détruit le dos"| - | - |
+|Salopette noire|-|-|
+|Porte encens (type bled)|-|-|
+|Pochette switch 2|[Exemple](https://www.amazon.fr/Pochette-transport-protection-d%C3%A9cran-Nintendo/dp/B0F3JT1NT8)|-|
+|Sacoche type banane|-|-|
+|Bijoux de piercing (oreilles)|-|-|
+|Carnet de coloriage (joli) + Feutres (basiques)|-|-|
+|Baskets (Elle aime Converse et Nike) |-|-|
